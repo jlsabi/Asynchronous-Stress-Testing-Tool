@@ -21,7 +21,3 @@ WebStress is a robust and efficient tool designed for performing stress tests on
 ## Important Notice
 
 This script is intended solely for educational purposes and should not be used maliciously. Misuse of this tool to perform unauthorized stress tests on servers without consent is illegal and unethical.
-
---- 
-
-This version integrates a clear and concise disclaimer emphasizing that the script is meant for educational use and highlights the legal and ethical implications of misuse.
